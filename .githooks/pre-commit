@@ -14,7 +14,7 @@ function check_fmt {
         exit 1
     fi
 }
-
+/* */
 check_fmt
 
 cd prover/
